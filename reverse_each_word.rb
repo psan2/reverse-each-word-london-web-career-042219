@@ -5,5 +5,5 @@ def reverse_each_word (forward)
     reverse_phrase = []
     reverse_phrase.push(reverse_word)
   end
-  reverse_string
+  reverse_phrase
 end
